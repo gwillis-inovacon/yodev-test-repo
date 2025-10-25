@@ -1,0 +1,13 @@
+{
+  "name": "yodev-test-repo",
+  "version": "1.0.0",
+  "description": "Test repository for yoDEV Discourse integration",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": ["yodev", "testing", "typescript"],
+  "author": "yoDEV Team",
+  "license": "MIT"
+}
