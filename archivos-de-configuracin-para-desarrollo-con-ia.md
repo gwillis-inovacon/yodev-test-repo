@@ -651,3 +651,5 @@ ACCESSIBILITY:
 ***
 
 *Recurso creado por yoDEV.dev - Configuraciones para desarrollo con IA*
+
+yoDEV.dev La red de desarrolladores de Latina América
