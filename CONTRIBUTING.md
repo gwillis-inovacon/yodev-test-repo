@@ -32,19 +32,9 @@ npm test
 
 Feel free to open an issue for any questions or concerns.
 
-Yes, I have questions.
-
-These are new questions !! OK?
-
-And even more questions 8:21
-
-Another new edit @ 8:22
-
-And now an edit from Github
 
 
-
-![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770222321530%2CMEYCIQD7J9C0FL%2B8lAN%2FYU5AX5cx2ncvZaE5OtiUeEuTyAAcOAIhAOGsMr4I0xYeal2VbvqKtrbjbNJbM4Zh5v8K0ukniIgK)
+![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770222382066%2CMEYCIQC5jxum9nauQa5WXoRQef44U0jnf9pF4JZKTS0tmRzqUQIhAK1w2HBkMkcA%2Fb64i%2FG3WpbrwvxAoTbqgYbJre%2FUCJMo)
 
 | Responsible | Due Date | Task |
 | ----------- | -------- | ---- |
