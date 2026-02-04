@@ -44,7 +44,7 @@ And now an edit from Github
 
 
 
-![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770218893061%2CMEUCIBhKbkX%2F1VN%2B7jZvnAzLA8UoME50mOFBCB1stgvTpFOnAiEAoCmlrzoj2919AxqypzhICzz8hPaZo%2BXdMpevrKU1myg%3D)
+![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770222321530%2CMEYCIQD7J9C0FL%2B8lAN%2FYU5AX5cx2ncvZaE5OtiUeEuTyAAcOAIhAOGsMr4I0xYeal2VbvqKtrbjbNJbM4Zh5v8K0ukniIgK)
 
 | Responsible | Due Date | Task |
 | ----------- | -------- | ---- |
@@ -52,40 +52,3 @@ And now an edit from Github
 |             |          |      |
 |             |          |      |
 
-This is a new test for the prompt to sync.
-
-We are now testing the update funcionality from Github
-
-Now I am editing in Github
-
-A new edit in Workplace 10:41
-
-And now a new edit in Github 10:42
-
-New edit in Workplace 10:44
-
-Edot to validate fix of duplicating titles 10:46
-
-Still duplicating titles 10:47
-
-New test for duplicating title on Github 10:49
-
-Still duplicating in Git 10:50
-
-In yoDEV header and document title. 2 titles
-
-Now three titles but only in Git
-
-Tetsing duplicate titles again 11:13
-
-Editing on Github. Duplicate tilte test.
-
-Another duplicate title test from yoDEV editor. 11:14
-
-Editing in Github replaicate title tests again
-
-Last test from yoDEV editor to test duplicate titles 11:17
-
-Absolute last test from Github to test duplicate titles 11:19
-
-testing pull request at 11:27
