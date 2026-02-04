@@ -2,6 +2,8 @@
 
 # CONTRIBUTING
 
+# CONTRIBUTING
+
 # Contributing to yoDEV Test Repo
 
 Thank you for your interest in contributing!
@@ -34,6 +36,4 @@ npm test
 
 Feel free to open an issue for any questions or concerns.
 
-
-
-This is a test.
+Yes, I have questions.
