@@ -77,3 +77,5 @@ In yoDEV header and document title. 2 titles
 Now three titles but only in Git
 
 Tetsing duplicate titles again 11:13
+
+Editing on Github. Duplicate tilte test.
