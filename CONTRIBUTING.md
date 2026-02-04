@@ -1,9 +1,5 @@
 # CONTRIBUTING
 
-# CONTRIBUTING
-
-# CONTRIBUTING
-
 # Contributing to yoDEV Test Repo
 
 Thank you for your interest in contributing!
