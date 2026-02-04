@@ -1,4 +1,6 @@
-# Contributing
+# CONTRIBUTING
+
+# CONTRIBUTING
 
 # Contributing to yoDEV Test Repo
 
@@ -44,7 +46,7 @@ And now an edit from Github
 
 
 
-![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770216258649%2CMEYCIQCuWUHEws9IOfRG45exjW6GXAZFOAbCr8sXV7KmDaOmrgIhAPrxjyyVsQERIg4p0fj95kxP5SpFXcCpBVRB9PyLwAPA)
+![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770216403041%2CMEUCIQCo361QWmzi4L5GF%2B7j1yE0UfLYOhCD5tPuZkGdHSDCUgIgUDB9z%2BSjKxA2zZtjzETWaylu0izzpjzakbYqV7pvX7I%3D)
 
 | Responsible | Due Date | Task |
 | ----------- | -------- | ---- |
@@ -63,3 +65,5 @@ A new edit in Workplace 10:41
 And now a new edit in Github 10:42
 
 New edit in Workplace 10:44
+
+Edot to validate fix of duplicating titles 10:46
