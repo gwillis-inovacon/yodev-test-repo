@@ -2,6 +2,8 @@
 
 # CONTRIBUTING
 
+# CONTRIBUTING
+
 # Contributing to yoDEV Test Repo
 
 Thank you for your interest in contributing!
@@ -46,7 +48,7 @@ And now an edit from Github
 
 
 
-![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770216592540%2CMEYCIQCx%2BGGnM1eyZ2InG9UCF3PDkw5gYiQt2RzD%2BAMhU212eAIhAJr94NXFh3ylOqQ7T1CtiHHTc5%2FKGv1tE1S44Y7GZH61)
+![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770216720017%2CMEQCIA1k5Sz6JW3qYZGjVrDcimdTPLknM1myf6I1X01TxCC2AiA49URvvC0WWw7N1bKFHrcpGj%2BeOI1qtr94rPeszWaiMA%3D%3D)
 
 | Responsible | Due Date | Task |
 | ----------- | -------- | ---- |
@@ -73,3 +75,5 @@ Still duplicating titles 10:47
 New test for duplicating title on Github 10:49
 
 Still duplicating in Git 10:50
+
+In yoDEV header and document title. 2 titles 
