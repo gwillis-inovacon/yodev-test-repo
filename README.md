@@ -30,3 +30,5 @@ Testing commit and PR monitoring for the yoDEV 360° CV badge system.
 * Expected: Badge should be awarded when PR is created/merged
 
 TESTING again
+
+![](assets/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=.png)
