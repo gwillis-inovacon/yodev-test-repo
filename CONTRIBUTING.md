@@ -71,3 +71,5 @@ Edot to validate fix of duplicating titles 10:46
 Still duplicating titles 10:47
 
 New test for duplicating title on Github 10:49
+
+Still duplicating in Git 10:50
