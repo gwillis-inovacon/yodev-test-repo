@@ -44,7 +44,7 @@ And now an edit from Github
 
 
 
-![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770217996261%2CMEUCIQDGTwvJl31AtummCG6gv0Yue%2Bnqf9D%2B2Fb9xbkz8Ux4fQIgZdHbeq%2B5aWHEl%2F%2BR6BOFfV6C4TLiJ2of79D7kbl%2BLmQ%3D)
+![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770218107594%2CMEQCIG6n3Gga%2BQNtavVmlEVtZh72HWPpswfrjAsPS323fryIAiAXRmxr9LZrW2KntZZd3RzvMBRQDtPug0qRLjY5GG5lCw%3D%3D)
 
 | Responsible | Due Date | Task |
 | ----------- | -------- | ---- |
@@ -79,3 +79,5 @@ Now three titles but only in Git
 Tetsing duplicate titles again 11:13
 
 Editing on Github. Duplicate tilte test.
+
+Another duplicate title test from yoDEV editor. 11:14
