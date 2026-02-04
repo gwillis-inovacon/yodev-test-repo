@@ -1,7 +1,3 @@
-# CONTRIBUTING
-
-# CONTRIBUTING
-
 # Contributing
 
 # Contributing to yoDEV Test Repo
