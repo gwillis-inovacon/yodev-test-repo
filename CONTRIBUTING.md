@@ -1,6 +1,6 @@
 # CONTRIBUTING
 
-# CONTRIBUTING
+# Contributing
 
 # Contributing to yoDEV Test Repo
 
@@ -46,7 +46,7 @@ And now an edit from Github
 
 
 
-![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770214147193%2CMEYCIQD35lz72fz5bZBbRS7pL%2FjJilzKuGxEAr0n3Xd2Fj6XfQIhAJo68cjn9THLMD9APWRxHj6yga0QO8GR1NBkTq5Zhowy)
+![](https://workplace.yodev.dev/api/workspaces/c21b8242-0f26-48a4-872d-2f4497ca72fa/blobs/wQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg=?token=c21b8242-0f26-48a4-872d-2f4497ca72fa%3AwQIV9U2E-kQKJRnVrdGzuVetC_Bc1OqlpU9p_ABuagg%3D%3A1770216105878%2CMEYCIQC2yMfvxwx8W%2BatiTzZplzBMcZHCAF4RnHMgioiv0p%2F2QIhAI2R1Faq0EA1lfCszXgWU7Iv4lE09EV20whntEkJJrSE)
 
 | Responsible | Due Date | Task |
 | ----------- | -------- | ---- |
@@ -56,9 +56,9 @@ And now an edit from Github
 
 This is a new test for the prompt to sync.
 
-
-
 We are now testing the update funcionality from Github
 
 Now I am editing in Github
+
+A new edit in Workplace 10:41
 
