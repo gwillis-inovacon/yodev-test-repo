@@ -77,3 +77,5 @@ New test for duplicating title on Github 10:49
 Still duplicating in Git 10:50
 
 In yoDEV header and document title. 2 titles 
+
+Now three titles but only in Git
