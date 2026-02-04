@@ -59,3 +59,6 @@ This is a new test for the prompt to sync.
 
 
 We are now testing the update funcionality from Github
+
+Now I am editing in Github
+
