@@ -1,3 +1,5 @@
+# CONTRIBUTING
+
 # Contributing to yoDEV Test Repo
 
 Thank you for your interest in contributing!
@@ -13,18 +15,21 @@ Thank you for your interest in contributing!
 
 ## Code Standards
 
-- Write clean, readable TypeScript code
-- Add unit tests for new features
-- Follow existing code style
-- Update documentation as needed
+* Write clean, readable TypeScript code
+* Add unit tests for new features
+* Follow existing code style
+* Update documentation as needed
 
 ## Testing
 
 Run tests before submitting PRs:
-```bash
+
+```shellscript
 npm test
 ```
 
 ## Questions?
 
 Feel free to open an issue for any questions or concerns.
+
+TESTING 
