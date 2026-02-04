@@ -1,5 +1,3 @@
-# Untitled
-
 # CONTRIBUTING
 
 # Contributing to yoDEV Test Repo
